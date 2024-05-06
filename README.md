@@ -7,7 +7,7 @@ Glazing is chemistry plus fire plus unpredictable reactions.
 
 
 Lets start documenting and possibly we can come up with some conclusions.  
-[Starting point](#Starting point), [what](#what), [how](#how) & [who](#who).  
+[Starting point](#Starting point), [Clay](#Clay body), [Porcelain](#Porcelain body) & [Toppings](#Glaze)
 
 ---
 
@@ -20,17 +20,18 @@ No matter what ...
 ---
 
 
-## What
+## Clay 
 
+Earthenware
+
+## Porcelain 
+
+white gold
+
+## Glaze 
 A *color* is a color is a color
 
-
-### Clay Bodies and combinations
-
-
-
-### Porcelain Bodies and combinations
-
+### Examples & How to
 There are two main types of elements:
 
 - **Sections** – Larger blocks gather the material for weekly course sessions.
@@ -39,9 +40,6 @@ There are two main types of elements:
 Each item is connected with its section by a thin line. The navigation (≡) gives access to all sections.
 
 The last section acts as the footer, where the typical array of logos and links belongs.
-
-
-### Examples
 
 The template is in use to document the following [Interface Design](https://interface.fh-potsdam.de) courses offered at [FH Potsdam](https://www.fh-potsdam.de/):
 
