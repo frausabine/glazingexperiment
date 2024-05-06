@@ -32,7 +32,7 @@ white gold
 ## Glaze 
 
 
-A *color* is a color is a color
+A *color* is a color is a color. And how do it calculate the mix: Try [Glazy](https://help.glazy.org/guide/calculator/)
 
 
 ### Examples & How to
