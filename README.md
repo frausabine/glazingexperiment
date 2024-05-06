@@ -1,27 +1,20 @@
-# Syllabus Site
+# Wild Glazes
 
-This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.
-
-
-Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
+This is an experiment in documenting glazing on different bodies, in documenting the outcomes, and trying to mix new glazes.
 
 
-Scroll along to find out  
-[why](#why), [what](#what), [how](#how) & [who](#who).  
+Glazing is chemistry plus fire plus unpredictable reactions. 
 
+
+Lets start documenting and possibly we can come up with some conclusions.  
+[Starting point](#Starting point), [what](#what), [how](#how) & [who](#who).  
 
 ---
 
 
-## Why 
+## Starting point 
 
-In the realm of design education and research, there's a common emphasis on outcomes—be it presentations, prototypes, or papers. This focus, while essential, tends to sideline the  exploratory and dynamic process leading to these results. The journey to the final projects is marked by twists, turns, and tangents. This is where much of the learning and discovery occurs. 
-
-
-*Syllabus Site* was conceived as a tool to highlight and document these critical but frequently overlooked aspects of design projects. It serves as a dynamic interface chronicling the voyage through readings, workshops, and discussions.
-
-
-This approach not only retains but celebrates the meandering nature of design as an intellectual journey, ensuring that the wealth of inspirations—from historical examples and theoretical frameworks to contemporary projects and research studies—is preserved and made accessible. 
+No matter what ...
 
 
 ---
@@ -29,15 +22,14 @@ This approach not only retains but celebrates the meandering nature of design as
 
 ## What
 
-A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
+A *color* is a color is a color
 
 
-### Design
-
-The webpage is designed with the aim to open an evocative information space, where the sources that foster creativity, dialogue, and learning can be gathered, recapitulated, and appreciated. The monolithic structure of conventional documents is broken up, by introducing a relational quality to the connections between sections and items.
+### Clay Bodies and combinations
 
 
-### Structure
+
+### Porcelain Bodies and combinations
 
 There are two main types of elements:
 
@@ -68,23 +60,6 @@ The template is in use to document the following [Interface Design](https://inte
 
 
 ---
-
-
-## How
-
-The *Syllabus Site* template can be easily used with minimal technical requirements.
-
-
-![](img/sidebyside.webp)  
-Page content and source side by side
-
-
-### Get started
-
-1. Download or clone the [GitHub repository](https://github.com/uclab-potsdam/syllabus-site/)
-2. Give your page a title, fill out open graph fields, and adjust theme color in `index.html`
-3. Add your content into `README.md` and `img/`
-
 
 ### Files
 
@@ -122,29 +97,6 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 
 - Include an expressive preview image `img/cover.png` so that your page can be previewed on social media and messaging apps.
 - Given that your webpage might be accessed from a mobile device with a slow connection make sure to optimize image file sizes.
-
-
----
-
-
-## Who
-
-*Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
-
-
-**Markdown munching**: [Marked](https://marked.js.org) by Christopher Jeffrey
-
-
-**Terrific typeface**: [HK Grotesk](https://github.com/HankenDesignCo/HK-Grotesk) by Alfredo Marco Pradil
-
-
-**Friendly feedback**: Myriel Milicevic, Lamin Manneh, Fidel Thomet, Mark-Jan Bludau, Sabine de Günther and Francesca Morini
-
-
-**Yes, you!**: Syllabus Site is [made available](https://github.com/uclab-potsdam/syllabus-site/) under the liberal MIT license. Feel free to reuse and revise it!
-
-
----
 
 
 [<img src='img/fhp.svg' style='height:2.25em'>](https://www.fh-potsdam.de/) 
