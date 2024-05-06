@@ -1,7 +1,9 @@
+---
 # Wild Glazes
 
 This is an experiment in documenting glazing on different bodies, in documenting the outcomes, and trying to mix new glazes.
 
+---
 
 Glazing is chemistry plus fire plus unpredictable reactions. 
 
