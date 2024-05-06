@@ -3,7 +3,6 @@
 
 This is an experiment in documenting glazing on different bodies, in documenting the outcomes, and trying to mix new glazes.
 
----
 
 Glazing is chemistry plus fire plus unpredictable reactions. 
 
@@ -11,27 +10,30 @@ Glazing is chemistry plus fire plus unpredictable reactions.
 Lets start documenting and possibly we can come up with some conclusions.  
 [Starting point](#Starting point), [Clay](#Clay body), [Porcelain](#Porcelain body) & [Toppings](#Glaze)
 
----
-
 
 ## Starting point 
+
 
 No matter what ...
 
 
----
-
-
 ## Clay 
+
 
 Earthenware
 
+
 ## Porcelain 
+
 
 white gold
 
+
 ## Glaze 
+
+
 A *color* is a color is a color
+
 
 ### Examples & How to
 There are two main types of elements:
