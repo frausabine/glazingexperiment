@@ -10,13 +10,13 @@ Glazing is chemistry plus fire plus unpredictable reactions.
 Lets start documenting and possibly we can come up with some conclusions.  
 [Starting point](#Start), [Clay](#Clay), [Porcelain](#Porcelain) & [Toppings](#Glaze)
 
-
+---
 ## Starting point 
 
 
 No matter what ...
 
-
+---
 ## Clay 
 
 
