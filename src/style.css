@@ -179,7 +179,7 @@ p {
     pointer-events: all;
     z-index: 1;
     will-change: top;
-    border-radius: 1em;
+    border-radius: 3em;
 }
 .cursor{
     position: fixed;
