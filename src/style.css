@@ -216,7 +216,7 @@ p {
     background-color: var(--background-content);
     z-index:2;
     border-radius: .5em;
-    font-size: 0.85em;
+    font-size: 0.8em;
 }
 
 .content figure {
